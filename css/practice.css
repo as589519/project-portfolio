@@ -1,0 +1,21 @@
+/* Put your styles here. */
+
+        header{ border-bottom-style: solid;
+            border-bottom-width: 2px; 
+               
+        } 
+        
+        body{ background-color: AntiqueWhite;
+            font-family: Arial
+            
+        } 
+        
+        h1{ font-family: cursive;
+            color: ForestGreen        
+        }
+        
+        h2{ font-family: cursive;
+            color: LightCoral;
+            text-align: center
+        } 
+/* Put your styles here. */ 
