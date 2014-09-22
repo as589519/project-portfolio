@@ -1,0 +1,31 @@
+/*
+Audrey Schiavone
+
+Seafoam #99eebb 
+Tan #998866 
+Peach #ffbb55
+*/ 
+
+
+a{ color: #998866
+} 
+
+h1{ color: #998866 
+}
+
+.color1{
+    width: 200px;
+    height: 200px; 
+    background-color: #998866; 
+}
+.color2{width: 200px;
+    height: 200px; 
+    background-color: #99eebb;
+}
+
+.color3{width: 200px;
+    height: 200px; 
+    background-color: #ffbb55;
+}
+
+
