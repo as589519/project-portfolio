@@ -1,0 +1,16 @@
+header{ color: #cc2900;  
+} 
+h3 {color: #660000;
+    font-family: hoefler text; 
+    font-weight: 700;
+    font-size: 35px; 
+} 
+
+body{ font-family: sans-serif; 
+}
+
+different{ font-family: fantasy; 
+    
+} 
+header{ border-bottom-style: solid;
+            border-bottom-width: 2px; }

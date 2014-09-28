@@ -7,25 +7,35 @@ Peach #ffbb55
 */ 
 
 
-a{ color: #998866
-} 
+a{ color: #998866}
 
-h1{ color: #998866 
-}
+
+h1{ color: #998866;
+    font-size: 40px;
+    text-align: center} 
+
+
+h2{ 
+    color: #99eebb;
+    font-family: DFKai-SB;}
+
+.secondtitle{ 
+    text-align: center;} 
 
 .color1{
     width: 200px;
     height: 200px; 
-    background-color: #998866; 
-}
-.color2{width: 200px;
-    height: 200px; 
-    background-color: #99eebb;
-}
+    background-color: #998866;}
 
-.color3{width: 200px;
+.color2{
+    width: 200px;
     height: 200px; 
-    background-color: #ffbb55;
-}
+    background-color: #99eebb;}
+
+.color3{
+    width: 200px;
+    height: 200px; 
+    background-color: #ffbb55;}
+
 
 
