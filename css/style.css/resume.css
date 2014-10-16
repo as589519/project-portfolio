@@ -1,16 +1,59 @@
-header{ color: #cc2900;  
+@import url(http://fonts.googleapis.com/css?family=Julius+Sans+One);
+@import url(http://fonts.googleapis.com/css?family=Crushed);
+
+
+.me{position:absolute;
+    left: 90px;
+    top: 450px;
+    z-index: -1;
+    
+   
+    
 } 
-h3 {color: #660000;
-    font-family: hoefler text; 
-    font-weight: 700;
-    font-size: 35px; 
+ul{list-style: none; 
 } 
 
-body{ font-family: sans-serif; 
+header{ color: white; 
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+     border-style: solid;
+    background-image: url('/Images/Resumeo.jpg');
+    font-weight: 300; 
+    font-size: 29px; 
+            
+
+
+    
+} 
+ 
+h4{color: #BF7D3A; 
+    font-family: 'crushed'; 
+    font-size: 30px; 
+} 
+h3 {color: #54C571;
+    font-family: 'Julius Sans One', sans-serif; 
+    font-weight: 700;
+    font-size: 35px; 
+    text-align: center;
 }
+
+body{ font-family: sans-serif;
+    text-align: center; 
+     background-image: url('/Images/smallsteps.png');} 
+   
 
 different{ font-family: fantasy; 
     
 } 
 header{ border-bottom-style: solid;
             border-bottom-width: 2px; }
+    
+a{  color: white; 
+    font-size: 25px; 
+}
+
+a:hover{color: #d3d3d3; 
+} 

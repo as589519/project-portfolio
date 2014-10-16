@@ -5,25 +5,41 @@ Seafoam #99eebb
 Tan #998866 
 Peach #ffbb55
 */ 
-
+@import url(http://fonts.googleapis.com/css?family=Cabin+Sketch);
+@import url(http://fonts.googleapis.com/css?family=Crushed);
+@import url(http://fonts.googleapis.com/css?family=Crushed|Fredericka+the+Great);
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
 header{
-    background-color: #ffbb55; 
+    background-color: #F0F0F0; 
     width: 800px; 
     margin-left: auto;
     margin-right: auto;
+     border-style: solid;
+    border-width: 1px;
+    border-color: #998866;
+    background-image: url('../Images/Fireworks.JPG');
+   
+ 
+  
 }
 a{ color: #998866}
 
+body{font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+
 p{ text-align: center;} 
 
-h1{ color: #998866;
-    font-size: 40px;
-    text-align: center} 
+h1{ color: white;
+    font-size: 65px;
+    text-align: center;
+    font-family:'Amatic SC', cursive;
+    
+    } 
 
 
 h2{ 
-    color: #99eebb;
-    font-family: DFKai-SB;}
+    color: #ffbb55;
+    font-family:'Crushed', cursive; }
 
 .secondtitle{ 
     text-align: center;} 
@@ -41,12 +57,28 @@ h2{
     background-color: #998866;}
 
 .color2{
-    background-color: #99eebb;}
+    background-color: #ff3333;}
 
 .color3{
     background-color: #ffbb55;}
 
 
-.projects{ text-align: center
+.projects{ text-align: left; }
+
+
     
-    
+.site-footer{ font-size: 25px; 
+    text-align: center; 
+}
+.site-footer a{ 
+    color: #998866;
+} 
+
+.site-footer a:hover{
+    color: #ffbb55;
+    text-decoration: underline; 
+} 
+
+ul {
+ list-style: none;
+}
