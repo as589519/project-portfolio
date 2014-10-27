@@ -1,0 +1,64 @@
+
+
+h1{text-align: center;
+ font-family: arial; 
+    font-size: 45px; 
+    color: #7F525D; 
+} 
+
+h2{ text-align: center;
+    color: #54C571;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 30px; 
+    
+}
+
+h3{text-align: center;
+   color: #538074; 
+    font-size: 22px; 
+} 
+p{text-align: center; 
+     
+} 
+
+a{ text-align: center;
+    color: #7F525D;
+    font-size: 15px;
+    font-family: arial; 
+} 
+
+body{background-image: url('../Images/texrex.png');
+    color: #7f525d; 
+    font-family: arial;
+   display: inline-block; 
+} 
+
+.body1{width: 700px;
+    padding: 25px;
+    border: 25px solid white;
+    margin: 25px; 
+    text-align: center;
+} 
+
+.body2{ width: 700px;
+    padding: 25px;
+    border: 25px solid white;
+    margin: 25px;
+    text-align: center;
+     
+} 
+
+.body3{ width: 700px;
+    padding: 25px;
+    border: 25px solid white;
+    margin: 25px;
+    text-align: center; 
+} 
+
+ul{text-align: left; 
+   
+} 
+
+ 
+a:hover{color: white;
+} 
