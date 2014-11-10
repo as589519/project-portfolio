@@ -1,0 +1,21 @@
+
+.scaled-image{
+  display: block;
+    margin-left: auto;
+    margin-right: auto} 
+    
+h1{font-family: sans-serif;
+    color: black;
+    font-size: 70px;
+    color: #B40431; 
+    text-align: center; 
+} 
+
+body{ background-image: url('/Images/smallsteps.png')
+} 
+
+h2{font-size: 40px;
+    color: #610B21; 
+    font-family:'Open Sans Condensed', sans-serif; 
+    text-align: center; 
+} 
