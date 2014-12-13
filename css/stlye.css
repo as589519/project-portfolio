@@ -42,7 +42,7 @@ h2{
     font-family:'Crushed', cursive; }
 
 .secondtitle{ 
-    text-align: center;} 
+    text-align:right;} 
 
     
 .colorsquare{
@@ -63,18 +63,46 @@ h2{
     background-color: #ffbb55;}
 
 
-.projects{ text-align: left; }
+.projects{ text-align: center; }
 
+.main{width: 40%; 
+    float: left; 
+    border-style: solid; 
+    border-color: #998866; 
+    height: 425px;
+    margin: auto; 
+    text-align: center;
+    wdith: 40%;
+    margin-left: 295px;  
+    
+} 
 
+.sidebar{width: 20%;
+    float: left;
+    border-style: solid; 
+    border-color: #998866;
+    height: 425px; 
+    margin: auto; 
+    margin-left: 10px; 
+    padding: 2%;
+    text-align: center; 
+    width: 20%; 
+} 
     
 .site-footer{ font-size: 25px; 
     text-align: center; 
+    border-style: solid; 
+    border-color: #998866;
+    width: 60%;
+        margin: auto; 
+    
 }
-.site-footer a{ 
+    
+site-footer a{ 
     color: #998866;
 } 
 
-.site-footer a:hover{
+site-footer a:hover{
     color: #ffbb55;
     text-decoration: underline; 
 } 
@@ -82,3 +110,9 @@ h2{
 ul {
  list-style: none;
 }
+
+navigation li{ display: inline-block;
+    padding: 10px;
+} 
+
+
